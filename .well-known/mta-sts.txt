@@ -1,4 +1,3 @@
-
 version: STSv1
 mode: testing
 mx: mail.protonmail.ch
